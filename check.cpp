@@ -3,7 +3,7 @@
 
 using namespace std;
 #define PI 3.14159265
-
+// hello
 //void dwavefunction(int kj,int kt,int ksp,int ksn,double p,double theta,double phi,double wf,int iw,int ini);
 double zeta(int kj, int ksp, int ksn, double ze_re, double ze_im); 
 void stensor(int kj,int ksp,int ksn,double theta,double phi,double &s_re,double &s_im);
